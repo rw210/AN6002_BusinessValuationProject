@@ -31,7 +31,7 @@ This project aims to develop an AI-based Python program for business valuation. 
 ## Contributors
 - Wang Yiting (Rebecca)
 - Le Ha Minh Anh (Mia) 
-- Chen Hou Hsuan (Rock)   
+- Chen Houhsuan (Rock)   
 - Ng Limeylia   
 - Wu Weiqiang  
 
